@@ -33,7 +33,7 @@
 
     body {
       display: grid;
-      grid-template-rows: auto;
+      grid-template-columns: auto;
       grid-template-rows: 1fr 5%;
       font-size: 15px;
       font-family: 'Poppins', sans-serif;
