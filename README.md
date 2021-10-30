@@ -6,7 +6,7 @@ Solution to the [Four card feature section](https://www.frontendmentor.io/challe
 # Link
 Solution: [Github Page](https://mtc-21.github.io/Four-card-feature-section/)
 # Description
-created with html, js, css, using flexbox and grid for the layout of the website 
+created with html, css, using flexbox and grid for the layout of the website 
 # Author
 - Codepen - [Mtc_21](https://codepen.io/Mtc_21/)
 - Linkedin - [Martha Mendoza](https://www.linkedin.com/in/martha-mendoza-398007207/)
